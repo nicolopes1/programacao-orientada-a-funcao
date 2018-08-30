@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-9-programacao-orientada-a-funcao\aula-9-programacao-orientada-a-funcao\obj\Debug\aula-9-programacao-orientada-a-funcao.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-9-programacao-orientada-a-funcao\aula-9-programacao-orientada-a-funcao\obj\Debug\aula-9-programacao-orientada-a-funcao.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-9-programacao-orientada-a-funcao\aula-9-programacao-orientada-a-funcao\bin\Debug\aula-9-programacao-orientada-a-funcao.exe.config
+C:\Users\nicol\source\repos\aula-9-programacao-orientada-a-funcao\aula-9-programacao-orientada-a-funcao\bin\Debug\aula-9-programacao-orientada-a-funcao.exe
+C:\Users\nicol\source\repos\aula-9-programacao-orientada-a-funcao\aula-9-programacao-orientada-a-funcao\bin\Debug\aula-9-programacao-orientada-a-funcao.pdb
+C:\Users\nicol\source\repos\aula-9-programacao-orientada-a-funcao\aula-9-programacao-orientada-a-funcao\obj\Debug\aula-9-programacao-orientada-a-funcao.exe
+C:\Users\nicol\source\repos\aula-9-programacao-orientada-a-funcao\aula-9-programacao-orientada-a-funcao\obj\Debug\aula-9-programacao-orientada-a-funcao.pdb
